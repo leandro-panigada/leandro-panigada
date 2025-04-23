@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leandro-panigada
-- 👀 I’m interested in ... programming and crypto
-- 🌱 I’m currently learning ... laravel 9 + solidity
+- 👀 I’m interested in ... programming, finances and crypto
+- 🌱 I’m currently learning ... Rust and Q#
 - 💞️ I’m am collaborating on ... SatoshiTango
 - 📫 How to reach me ... leandro.panigada@satoshitango.com
 
